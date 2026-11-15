@@ -30,6 +30,7 @@ I know there is still a lot to learn. There will be challenges, difficult concep
 
 I am proud of how far I have come, but even more excited about how far I can go.
 
-**This is just the beginning of my story. The journey continues! **
+ THIS IS JUST THE BEGINNING OF MY STORY. THE JOURNEY CONTINUES! 
+
 
 ---
