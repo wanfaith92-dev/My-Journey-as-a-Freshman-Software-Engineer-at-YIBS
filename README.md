@@ -1,4 +1,5 @@
 # My-Journey-as-a-Freshman-Software-Engineer-at-YIBS
+![my picture](IMG-20261115-WA0043.jpg)
 
 ### A journey of learning, adapting, discovering, and growing
 Every new journey comes with its own experiences, challenges, and lessons. My journey as a freshman Software Engineering (SWE) student at YIBS/ISEST has been an interesting experience so far, filled with moments that have helped me grow both academically and personal
