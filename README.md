@@ -23,11 +23,11 @@ So far, I have started:
 Although I am still a beginner, these experiences have increased my curiosity and interest in technology.
 
 As I continue my journey, I hope to:
-- Improve my programming skills.
-- Learn more programming languages.
-- Build my own websites and applications.
-- Develop creative solutions to real-world problems.
-- Become a skilled and successful Software Engineer.
+Improve my programming skills.
+Learn more programming languages.
+Build my own websites and applications.
+Develop creative solutions to real-world problems.
+Become a skilled and successful Software Engineer.
 
 I know there is still a lot to learn. There will be challenges, difficult concepts, and moments when I may feel overwhelmed. But I am determined to remain focused, keep practising, and make the most of every opportunity.
 
@@ -38,5 +38,3 @@ I am proud of how far I have come, but even more excited about how far I can go.
 **This is just the beginning of my story. The journey continues! **
 
 ---
-
-*Written by: A Freshman Software Engineering Student at YIBS/ISEST.*
