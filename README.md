@@ -1,7 +1,6 @@
 # My-Journey-as-a-Freshman-Software-Engineer-at-YIBS
 
-### A journey of learning, adapting, discovering, and growing.
-
+### A journey of learning, adapting, discovering, and growing
 Every new journey comes with its own experiences, challenges, and lessons. My journey as a freshman Software Engineering (SWE) student at YIBS/ISEST has been an interesting experience so far, filled with moments that have helped me grow both academically and personal
 
 When I first started school, things were not as easy as I had imagined. Everything was new to me. I was unfamiliar with the faces around me, the school environment, and even my teachers.
@@ -19,17 +18,9 @@ Another exciting part of my journey has been discovering the practical side of S
 So far, I have started:
 - Learning HTML.
 - Exploring different programming applications.
-- Understanding the basics of algorithms.
-- Developing my logical and problem-solving skills.
+- Understanding the basics of algorithm
 
 Although I am still a beginner, these experiences have increased my curiosity and interest in technology.
-
-My experience has taught me that:
-- Adapting to a new environment requires patience.
-- Assignments help improve independent learning.
-- Programming requires practice and consistency.
-- Every beginner has room to grow.
-- Challenges are part of the learning process.
 
 As I continue my journey, I hope to:
 - Improve my programming skills.
