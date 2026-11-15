@@ -9,16 +9,12 @@ At first, adapting to this new atmosphere was quite challenging. However, as tim
 
 One thing that initially frustrated me was the large number of assignments we were given. Sometimes, it felt overwhelming, and I wondered why we had so much work to do.
 
-However, with time, I began to understand that these assignments were not meant to punish us but to help us improve our knowledge, develop our skills, and become independent learners.
-
-I eventually realised that every assignment was an opportunity to learn something new.
+However, with time, I began to understand that these assignments were not meant to punish us but to help us improve our knowledge, develop our skills, and become independent learners
 
 Another exciting part of my journey has been discovering the practical side of Software Engineering.
 
 So far, I have started:
-- Learning HTML.
-- Exploring different programming applications.
-- Understanding the basics of algorithm
+Learning HTML,Exploring different,programming applications and understanding the basics of algorithm
 
 Although I am still a beginner, these experiences have increased my curiosity and interest in technology.
 
@@ -27,7 +23,6 @@ Improve my programming skills.
 Learn more programming languages.
 Build my own websites and applications.
 Develop creative solutions to real-world problems.
-Become a skilled and successful Software Engineer.
 
 I know there is still a lot to learn. There will be challenges, difficult concepts, and moments when I may feel overwhelmed. But I am determined to remain focused, keep practising, and make the most of every opportunity.
 
